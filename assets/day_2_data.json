@@ -1,0 +1,3302 @@
+[
+    {
+      "gameID": 1,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 2,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 3,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 4,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 5,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 6,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 7,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 8,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 9,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 10,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 11,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 12,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 13,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 14,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 15,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 16,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 17,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 18,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 19,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 20,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 21,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 22,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 23,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 24,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 25,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 26,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 27,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 28,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 29,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 30,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 31,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 32,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 33,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 34,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 35,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 36,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 37,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 38,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 39,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 40,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 41,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 42,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 43,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 44,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 45,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 46,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 47,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 48,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 49,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 50,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 51,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 52,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 53,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 54,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 55,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 56,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 57,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 58,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 59,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 60,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 61,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 62,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 63,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 64,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 65,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 66,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 67,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 68,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 69,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 70,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 71,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 72,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 73,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 74,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 75,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 76,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 77,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 78,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 79,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 80,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 81,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 82,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 83,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 84,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 85,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 86,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 87,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 88,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 89,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 90,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 91,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 92,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 93,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 94,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 95,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 96,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 97,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 98,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 99,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    },
+    {
+      "gameID": 100,
+      "cubes": {
+        "0": {
+          "green": 5,
+          "red": 7,
+          "blue": 4
+        },
+        "1": {
+          "green": 11,
+          "red": 9,
+          "blue": 8
+        },
+        "2": {
+          "blue": 2,
+          "green": 12
+        },
+        "3": {
+          "red": 5,
+          "green": 2
+        },
+        "4": {
+          "blue": 2,
+          "green": 1,
+          "red": 5
+        },
+        "5": {
+          "red": 1,
+          "blue": 3,
+          "green": 5
+        }
+      }
+    }
+  ]
