@@ -1,16 +1,16 @@
-# advent_2023
+# advent_2023 -> Flutter/Dart Mobile App
 
-A new Flutter project.
+Attempting to do all the problems in Advent of Code 2023 in Flutter/Dart
+Hopefully I will figure them all out before Advent 2024 starts.
+https://adventofcode.com/2023
 
-## Getting Started
+## Current Status
 
-This project is a starting point for a Flutter application.
+Day 1 Part 1 : Solved
+Day 1 Part 2 : Solved
+Day 2 Part 1 : Solved
+Day 2 Part 2 : Solved
+Day 3 Part 1 : Solved
+Day 3 Part 2 : Killin Me, Ugh.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
