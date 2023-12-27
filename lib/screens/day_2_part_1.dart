@@ -1,4 +1,3 @@
-import 'dart:developer';
 import 'package:collection/collection.dart';
 import 'package:advent_2023/data/data_day2.dart';
 
@@ -57,7 +56,7 @@ class Part3 {
     Set<int> fail = {};
     final colorMaxValues = {'red': 12, 'green': 13, 'blue': 14};
     List<Map<String, dynamic>> games = gamesLinesConverted();
-    int runNo = 0;
+    // int runNo = 0;
     for (var game in games) {
       final int gameNumber = game['gameID'];
       final Map<String, dynamic> oneWholeLineOfGames = game['cubes'];

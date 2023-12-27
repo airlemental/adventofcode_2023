@@ -11,7 +11,7 @@ Day 1 Part 2 : Solved
 Day 2 Part 1 : Solved  
 Day 2 Part 2 : Solved  
 Day 3 Part 1 : Solved  
-Day 3 Part 2 : Killin Me, Ugh.  
-Day 4 Part 1 : Maybe some day...
+Day 3 Part 2 : Solved 
+Day 4 Part 1 : And so, it begins...
 
-![oh not christmas tree](assets/2023-12-21_advent2023.png)
+![oh not christmas tree](assets/2023-12-26_advent2023.png)

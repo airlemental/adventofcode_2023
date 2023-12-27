@@ -38,7 +38,6 @@ class Part2 {
     List<String> orderedNumChars = [];
     // extract each pattern and assign it an indexOf
     for (final line in linesOfDataList){
-      int inOrder;
       String converted = '';
       Map<int, String> orderedNumberStrings = {};
       if(reg1a.hasMatch(line)){
@@ -214,7 +213,7 @@ class Part2 {
 
   Future<int> finalNumber2() async {
     int theTotal = 0;
-    List<String> pairOfNumList = await create2DigitList();
+    List<String> pairOfNumList = create2DigitList();
     for (final numString in pairOfNumList) {
       int numFromString = int.parse(numString);
       theTotal = theTotal + numFromString;

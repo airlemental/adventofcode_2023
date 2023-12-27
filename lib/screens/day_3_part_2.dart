@@ -1,5 +1,6 @@
 import 'package:advent_2023/data/data_day3.dart';
 import 'package:collection/collection.dart';
+import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 
 class AssignPositionsToValues {
@@ -60,12 +61,13 @@ class SetOfValuesAndAsterisks {
   }
 }
 
-class Pair<T1, T2, T3> {
+class Pair<T1, T2> extends Equatable {
   final T1 first;
   final T2 second;
-  final T3 third;
 
-  const Pair(this.first, this.second, this.third);
+  const Pair(this.first, this.second);
+  @override
+  List<Object?> get props => [first, second];
 }
 
 class Part6 {
@@ -180,11 +182,10 @@ class Part6 {
         }
       }
     }
-    return keepThese;
+    return keepThese; // This should be the sets of uncombined values, coordinates, and Asterisk Position coordinates, all saved to a giant set.
   }
 
-  AssignPositionsToValues processNumberSequence(
-      SetOfValuesWithPositions setOfValuesWithPositions) {
+  AssignPositionsToValues processNumberSequence(SetOfValuesWithPositions setOfValuesWithPositions) {
     int valueCollection = 0;
     int firstXCoordinate = -10;
     int firstYCoordinate = -10;
@@ -193,7 +194,7 @@ class Part6 {
         firstXCoordinate = position.x;
         firstYCoordinate = position.y;
       }
-      valueCollection = valueCollection * 10 + position.value;
+      valueCollection = valueCollection * 10 + position.value; // this puts the individual values into a single value.
     }
     AssignPositionsToValues voltron = AssignPositionsToValues(
         valueCollection, firstXCoordinate, firstYCoordinate);
@@ -203,25 +204,37 @@ class Part6 {
 // At this point it SHOULD have every complete value that is next to an asterisk with that value saved, even if there are multiple asterisks.
 // Now we need to compare asterisk values and find pairs of numbers that have that same asterisk coordinate.
 
-  int multiplyPairsThenSum(List<SetOfValuesAndAsterisks> listOfSets) {
-    List<AssignPositionsToValuesAndAsterisks> listOfAsterisks =
-        listOfSets.expand((set) => set.posVals).toList();
+// ==== I think this is the section that may be losing sets, if they remove a set that should be re-used.
+// ===== Theory is that if there are three number sets sharing 2 asterisks, one set gets used and removed, and the next does not get multiplied and saved.
 
-    final grouped = groupBy<AssignPositionsToValuesAndAsterisks, int>(
-        listOfAsterisks, (astSet) => astSet.asterX * 100 + astSet.asterY);
+  int multiplyPairsThenSum(List<SetOfValuesAndAsterisks> listOfSets) {
+    List<AssignPositionsToValuesAndAsterisks> listOfAsterisks = listOfSets.expand((set) => set.posVals).toList();
+
+// This calculation causes a bug because it turns out, the grid is so big, there are multiple calculations it can equal, but not be located together.
+    // final grouped = groupBy<AssignPositionsToValuesAndAsterisks, int>(listOfAsterisks, (astSet) => astSet.asterX * 100 + astSet.asterY);
+
+  final grouped = groupBy<AssignPositionsToValuesAndAsterisks, Pair<int, int>>(
+    listOfAsterisks,
+    (astSet) => Pair(astSet.asterX, astSet.asterY),
+  );
+
+
 
 // Keeping this section as it is a good example of how to flatten out all the grouped objects back to a single list, but in order.
-    final matchingObjects = grouped.values
-      .where((group) => group.length > 1) // Only include groups with multiple objects
-      .expand((group) => group)
-      .toList();
-    final matchingObjects2 = grouped.values
-      .where((group) => group.length == 2) // Only include groups with multiple objects
-      .expand((group) => group)
-      .toList();
+    // final matchingObjects = grouped.values
+    //   .where((group) => group.length > 2)
+    //   .expand((group) => group)
+    //   .toList();
+    // final matchingObjects2 = grouped.values
+    //   .where((group) => group.length == 2)
+    //   .expand((group) => group)
+    //   .toList();
     
-    debugPrint('Matched Objects > 1 ${matchingObjects.length.toString()}');
-    debugPrint('Matched Objects == 2 ${matchingObjects2.length.toString()}');
+    // debugPrint('Matched Objects == 2 ${matchingObjects2.length.toString()}');
+    // for(var object in matchingObjects2){
+    //   log('${matchingObjects2.length} Value ${object.value} asterX ${object.asterX} asterY ${object.asterY} x ${object.x} y ${object.y}');
+    // }
+    
 
     List<int> multSavedList = [];
     // ignore: avoid_function_literals_in_foreach_calls
@@ -253,3 +266,7 @@ class Part6 {
 
 // First number returned is too high. 15042851169
 // Changed group.length > 1 to group.length == 2, number returned is 82655993, this one is too low.
+// Updated groupBy method to use Pairs with Equatable rather than a calculation, 83279367, this is the correct answer.
+
+
+

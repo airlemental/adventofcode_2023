@@ -25,7 +25,7 @@ class Part1 {
 
   Future<int> finalNumber() async {
     int theTotal = 0;
-    List<String> pairOfNumList = await create2DigitList();
+    List<String> pairOfNumList = create2DigitList();
     for (final numString in pairOfNumList) {
       int numFromString = int.parse(numString);
       theTotal = theTotal + numFromString;

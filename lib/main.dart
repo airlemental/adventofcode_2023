@@ -11,9 +11,15 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Advent of Code 2023',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: const Color(0xFF00A53C),
+          primary: const Color(0xFF13cc4e),
+          secondary: const Color(0xFFd40028),
+          tertiary: const Color(0xFFc30022),
+          shadow: const Color(0xFF036f3e),
+        ),
         useMaterial3: true,
       ),
       home: const HomePage(title: 'Advent of Code 2023'),

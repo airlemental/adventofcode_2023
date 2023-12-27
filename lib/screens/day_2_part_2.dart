@@ -1,4 +1,3 @@
-import 'dart:developer';
 import 'package:collection/collection.dart';
 import 'package:advent_2023/data/data_day2.dart';
 
@@ -54,7 +53,7 @@ class Part4 {
   int finalNumber4() {
     List<Map<String, dynamic>> games = gamesLinesConverted();
     for (var game in games) {
-      final int gameNumber = game['gameID'];
+      // final int gameNumber = game['gameID'];
       final Map<String, dynamic> oneWholeLineOfGames = game['cubes'];
       final List<Map<String, dynamic>> indexedGrabs = [];
       oneWholeLineOfGames.forEach((key, value) {
