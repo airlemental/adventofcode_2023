@@ -160,7 +160,7 @@ class Part6 {
               }
             }
           } catch (error) {
-            debugPrint('I do not care, it does not matter.');
+            debugPrint('Looked off the grid');
           }
         }
       }
@@ -253,7 +253,7 @@ class Part6 {
     return multSavedList.sum;
   }
 
-  int grindGears() {
+  Future<int> grindGears() async {
     List<List<String>> schematic = theConverter();
     List<SetOfValuesWithPositions> sequentialNumbers =
         identifiedNumberGroups(schematic);

@@ -122,7 +122,7 @@ class Part5 {
                 }
               } 
             } catch (error) {
-              debugPrint('I do not care, it does not matter.');
+              debugPrint('Looked off the grid');
             }
           }
         }
@@ -169,7 +169,7 @@ class Part5 {
 
 
 
-  int solvePuzzle() {
+  Future<int> solvePuzzle() async {
     List<List<String>> schematic = theConverter();
     // Initialize a 2D array to store sum of adjacent "important" numbers
     // final int yCoords = schematic.length;

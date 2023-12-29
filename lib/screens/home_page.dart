@@ -7,6 +7,7 @@ import 'package:advent_2023/screens/day_2_part_2.dart';
 import 'package:advent_2023/screens/day_3_part_1.dart';
 import 'package:advent_2023/screens/day_3_part_2.dart';
 import 'package:advent_2023/screens/day_4_part_1.dart';
+import 'package:advent_2023/screens/day_4_part_2.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
@@ -19,36 +20,52 @@ class HomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<HomePage> {
-  int _displayNumber = 0;
+  int _displayNumber1 = 0;
   int _displayNumber2 = 0;
   int _displayNumber3 = 0;
   int _displayNumber4 = 0;
   int _displayNumber5 = 0;
   int _displayNumber6 = 0;
   int _displayNumber7 = 0;
+  int _displayNumber8 = 0;
 
-  void _findAndAddNumbers() async {
-    _displayNumber = 0;
+
+  void _solveTheProblems() {
+    _displayNumber1 = 0;
+    _calculateAndUpdate(Part1().findTheDigits(), (value) => _displayNumber1 += value);
     _displayNumber2 = 0;
-    int getTotal = await Part1().finalNumber();
-    int getTotal2 = await Part2().finalNumber2();
-    int getTotal3 = Part3().finalNumber3();
-    int getTotal4 = Part4().finalNumber4();
-    int getTotal5 = Part5().solvePuzzle();
-    int getTotal6 = Part6().grindGears();
-    int getTotal7 = Part7().theLottery();
-    if (getTotal > 0) {
-      setState(() {
-        _displayNumber = _displayNumber + getTotal;
-        _displayNumber2 = _displayNumber2 + getTotal2;
-        _displayNumber3 = _displayNumber3 + getTotal3;
-        _displayNumber4 = _displayNumber4 + getTotal4;
-        _displayNumber5 = _displayNumber5 + getTotal5;
-        _displayNumber6 = _displayNumber6 + getTotal6;
-        _displayNumber7 = _displayNumber7 + getTotal7;
-      });
-    }
+    _calculateAndUpdate(Part2().findAllNumsInWords(), (value) => _displayNumber2 += value);
+    _displayNumber3 = 0;
+    _calculateAndUpdate(Part3().possibleCubeGames(), (value) => _displayNumber3 += value);
+    _displayNumber4 = 0;
+    _calculateAndUpdate(Part4().fewestCubes(), (value) => _displayNumber4 += value);
+    _displayNumber5 = 0;
+    _calculateAndUpdate(Part5().solvePuzzle(), (value) => _displayNumber5 += value);
+    _displayNumber6 = 0;
+    _calculateAndUpdate(Part6().grindGears(), (value) => _displayNumber6 += value);
+    _displayNumber7 = 0;
+    _calculateAndUpdate(Part7().theLottery(), (value) => _displayNumber7 += value);
+    _displayNumber8 = 0;
+    _calculateAndUpdate(Part8().theLotteryWithRules(), (value) => _displayNumber8 += value);
+
   }
+
+  Future<void> _calculateAndUpdate<T>(
+      Future<T> calculation,
+      ValueSetter<T> updater,
+    ) async {
+      try {
+        final value = await calculation;
+        if (value != null) {
+          setState(() {
+            updater(value);
+          });
+        }
+        await Future.delayed(const Duration(seconds: 3));
+      } catch (error) {
+        debugPrint("Error during calculation: $error");
+      }
+    }
 
   @override
   Widget build(BuildContext context) {
@@ -117,7 +134,7 @@ class _MyHomePageState extends State<HomePage> {
                       ),
                 ),
                 Text(
-                  '-- $_displayNumber --\n',
+                  '-- $_displayNumber1 --\n',
                   style: Theme.of(context).textTheme.headlineSmall!.copyWith(
                         color: Theme.of(context).colorScheme.primary,
                         backgroundColor:
@@ -212,7 +229,7 @@ class _MyHomePageState extends State<HomePage> {
 
                 /// Day 4 Part 1
                 Text(
-                  ' Is it really worth it? ',
+                  ' Is that Card really worth it? ',
                   style: Theme.of(context).textTheme.bodyLarge!.copyWith(
                         color: Theme.of(context).colorScheme.secondary,
                         backgroundColor: Theme.of(context).colorScheme.primary,
@@ -226,13 +243,28 @@ class _MyHomePageState extends State<HomePage> {
                             Theme.of(context).colorScheme.secondary,
                       ),
                 ),
+                Text(
+                  ' And NOW they read the rules -.- ',
+                  style: Theme.of(context).textTheme.bodyLarge!.copyWith(
+                        color: Theme.of(context).colorScheme.secondary,
+                        backgroundColor: Theme.of(context).colorScheme.primary,
+                      ),
+                ),
+                Text(
+                  '-- $_displayNumber8 --\n',
+                  style: Theme.of(context).textTheme.headlineSmall!.copyWith(
+                        color: Theme.of(context).colorScheme.primary,
+                        backgroundColor:
+                            Theme.of(context).colorScheme.secondary,
+                      ),
+                ),
               ],
             ),
           ),
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: _findAndAddNumbers,
+        onPressed: _solveTheProblems,
         tooltip: 'Create the Code',
         child: const Icon(Icons.ac_unit),
       ),

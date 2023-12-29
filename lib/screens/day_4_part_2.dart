@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:advent_2023/data/data_day4.dart';
 import 'package:flutter/material.dart';
 
-class Part7 {
+class Part8 {
   int lotteryScore = 0;
 
   String loadedAsset = '';
@@ -81,7 +81,7 @@ class Part7 {
     return score;
   }
 
-  Future<int> theLottery() async {
+  Future<int> theLotteryWithRules() async {
     lotteryScore = doubleByHowManyMatched();
     return lotteryScore;
   }

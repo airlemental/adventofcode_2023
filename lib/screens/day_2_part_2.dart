@@ -50,7 +50,7 @@ class Part4 {
 
   List<int> savedPower = [];
 
-  int finalNumber4() {
+  Future<int> fewestCubes() async {
     List<Map<String, dynamic>> games = gamesLinesConverted();
     for (var game in games) {
       // final int gameNumber = game['gameID'];

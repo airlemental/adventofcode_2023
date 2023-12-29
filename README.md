@@ -12,6 +12,10 @@ Day 2 Part 1 : Solved
 Day 2 Part 2 : Solved  
 Day 3 Part 1 : Solved  
 Day 3 Part 2 : Solved 
-Day 4 Part 1 : And so, it begins...
+Day 4 Part 1 : Solved
+Day 4 Part 2 : And so, it begins...
 
-![oh not christmas tree](assets/2023-12-26_advent2023.png)
+### Maybe Next Year I will be good enough to get an actual tree.
+I should go look to see if I can see someone elses tree to see what they look like. :P 
+
+![oh not christmas tree](assets/2023-12-28_advent2023.png)

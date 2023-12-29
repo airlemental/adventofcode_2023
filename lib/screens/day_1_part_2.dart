@@ -211,7 +211,7 @@ class Part2 {
     return matchedPairs;
   }
 
-  Future<int> finalNumber2() async {
+  Future<int> findAllNumsInWords() async {
     int theTotal = 0;
     List<String> pairOfNumList = create2DigitList();
     for (final numString in pairOfNumList) {

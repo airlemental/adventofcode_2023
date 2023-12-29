@@ -47,7 +47,7 @@ class Part3 {
     return games;
   }
 
-  int finalNumber3() {
+  Future<int> possibleCubeGames() async {
     // Go through each line and determine if these criteria are violated...
     //    only 12 red cubes, 13 green cubes, and 14 blue cubes
     // Add the combined total of the possible Game Line numbers.

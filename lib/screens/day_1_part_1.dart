@@ -23,7 +23,7 @@ class Part1 {
     return matchedPairs;
   }
 
-  Future<int> finalNumber() async {
+  Future<int> findTheDigits() async {
     int theTotal = 0;
     List<String> pairOfNumList = create2DigitList();
     for (final numString in pairOfNumList) {
