@@ -8,6 +8,7 @@ import 'package:advent_2023/screens/day_3_part_1.dart';
 import 'package:advent_2023/screens/day_3_part_2.dart';
 import 'package:advent_2023/screens/day_4_part_1.dart';
 import 'package:advent_2023/screens/day_4_part_2.dart';
+import 'package:advent_2023/screens/day_5_part_1.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
@@ -28,6 +29,7 @@ class _MyHomePageState extends State<HomePage> {
   int _displayNumber6 = 0;
   int _displayNumber7 = 0;
   int _displayNumber8 = 0;
+  int _displayNumber9 = 0;
 
 
   void _solveTheProblems() {
@@ -46,8 +48,9 @@ class _MyHomePageState extends State<HomePage> {
     _displayNumber7 = 0;
     _calculateAndUpdate(Part7().theLottery(), (value) => _displayNumber7 += value);
     _displayNumber8 = 0;
-    _calculateAndUpdate(Part8().theLotteryWithRules(), (value) => _displayNumber8 += value);
-
+    _calculateAndUpdate(Part8().pileOfCards(), (value) => _displayNumber8 += value);
+    _displayNumber9 = 0;
+    _calculateAndUpdate(Part9().lowestLocation(), (value) => _displayNumber9 += value);
   }
 
   Future<void> _calculateAndUpdate<T>(
@@ -243,8 +246,10 @@ class _MyHomePageState extends State<HomePage> {
                             Theme.of(context).colorScheme.secondary,
                       ),
                 ),
+                
+                /// Day 4 Part 2
                 Text(
-                  ' And NOW they read the rules -.- ',
+                  ' oh yay, you win more cards -.- ',
                   style: Theme.of(context).textTheme.bodyLarge!.copyWith(
                         color: Theme.of(context).colorScheme.secondary,
                         backgroundColor: Theme.of(context).colorScheme.primary,
@@ -252,6 +257,23 @@ class _MyHomePageState extends State<HomePage> {
                 ),
                 Text(
                   '-- $_displayNumber8 --\n',
+                  style: Theme.of(context).textTheme.headlineSmall!.copyWith(
+                        color: Theme.of(context).colorScheme.primary,
+                        backgroundColor:
+                            Theme.of(context).colorScheme.secondary,
+                      ),
+                ),
+
+                /// Day 5 Part 1
+                Text(
+                  ' Where should I stick this? ',
+                  style: Theme.of(context).textTheme.bodyLarge!.copyWith(
+                        color: Theme.of(context).colorScheme.secondary,
+                        backgroundColor: Theme.of(context).colorScheme.primary,
+                      ),
+                ),
+                Text(
+                  '-- $_displayNumber9 --\n',
                   style: Theme.of(context).textTheme.headlineSmall!.copyWith(
                         color: Theme.of(context).colorScheme.primary,
                         backgroundColor:

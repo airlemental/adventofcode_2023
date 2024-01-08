@@ -160,7 +160,7 @@ class Part6 {
               }
             }
           } catch (error) {
-            debugPrint('Looked off the grid');
+            // debugPrint('Looked off the grid');
           }
         }
       }

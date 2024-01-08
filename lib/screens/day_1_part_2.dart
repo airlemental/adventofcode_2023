@@ -218,7 +218,7 @@ class Part2 {
       int numFromString = int.parse(numString);
       theTotal = theTotal + numFromString;
     }
-    debugPrint(theTotal.toString());
+    // debugPrint(theTotal.toString());
     return theTotal;
   }
 

@@ -1,7 +1,4 @@
-import 'dart:math';
-
 import 'package:advent_2023/data/data_day4.dart';
-import 'package:flutter/material.dart';
 
 class Part7 {
   int lotteryScore = 0;
@@ -70,7 +67,7 @@ class Part7 {
     }
     List<int> initialCountsList = howManyMatched();
     for(int i = 1; i <= initialCountsList.length; i++){
-      debugPrint("Line $i has ${initialCountsList[i-1]} matches");
+      // debugPrint("Line $i has ${initialCountsList[i-1]} matches");
     }
     int score = 0;
     for(int next in initialCountsList){
